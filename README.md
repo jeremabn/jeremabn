@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeremabn
 - 👀 I’m interested in Symfony and WebDevelopment
-- 🌱 I’m currently learning Symfony5
+- 🌱 I’m currently learning Symfony7
 - 💞️ I’m looking to collaborate on Symfony project
 - 📫 How to reach me @jeremabn
 
